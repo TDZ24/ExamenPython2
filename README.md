@@ -4,6 +4,7 @@
 
 # Instalacion.
 :notebook: 1. Clona este repositorio en tu computadora utilizando 'git clone'.
+
 :notebook: 2. Asegurarse de tener python en tu computadora. En caso de no tenerlo, lo puedes instalar desde el sitio web oficial de python.
 
 # Uso
