@@ -22,7 +22,7 @@ Juan Esteban Torres Ibarguen
 Thomas David Zuluaga Florez
 
 # Contacto
-## :bust_in_silhouette:https://github.com/Black-software100
+## :bust_in_silhouette:https://github.com/KeeoNorrea
 
 ## :bust_in_silhouette:https://github.com/Black-software100
 
